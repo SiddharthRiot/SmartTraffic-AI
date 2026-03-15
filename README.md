@@ -75,7 +75,7 @@ Traditional traffic signals operate on rigid pre-programmed timers. They have no
 │                                                                 │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────────┐   │
 │  │   Traffic    │    │   Computer   │    │    Traffic       │   │
-│  │   Camera     │───▶│   Vision     │───▶│  Optimization   │   │
+│  │   Camera     │───▶│   Vision     │──▶│  Optimization    │   │
 │  │   Feed       │    │  (YOLOv8)    │    │    Engine        │   │
 │  └──────────────┘    └──────────────┘    └──────┬───────────┘   │
 │                             │                   │               │
